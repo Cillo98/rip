@@ -1,0 +1,18 @@
+I am node  		8
+The source is 		3
+My distance to it is 	19
+The next hop is 	7
+
+Here is my vector:
+
+To node	Dist	Next hop
+1	16	7
+2	14	5
+3	19	7
+4	14	7
+5	7	5
+6	11	7
+7	3	7
+8	0	8
+9	7	7
+10	10	7

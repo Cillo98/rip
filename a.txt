@@ -1,0 +1,7 @@
+Took 55.05226731300354 seconds to converge 10 nodes with 7 edges
+Took 60.62622809410095 seconds to converge 20 nodes with 60 edges
+Took 65.75630593299866 seconds to converge 30 nodes with 117 edges
+Took 75.62397289276123 seconds to converge 40 nodes with 175 edges
+Took 79.41895294189453 seconds to converge 50 nodes with 233 edges
+Took 82.65181922912598 seconds to converge 60 nodes with 406 edges
+Took 87.35803508758545 seconds to converge 70 nodes with 583 edges
